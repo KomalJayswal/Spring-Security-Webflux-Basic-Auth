@@ -1,0 +1,5 @@
+app:
+  security:
+    username: admin
+    password: adminPassword
+    role: ADMIN
